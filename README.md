@@ -1,7 +1,3 @@
 # RC-Car-with-UDP-packet-control
-https://github.com/controlwear/virtual-joystick-android 
-uses this
-
-todo: pictures, pinout, components, 3d models, idea behind it
-future: add another nodeMcu as controller; switch control between the two(android - nodemcu)
-
+V1 makes use of the following repository: https://github.com/controlwear/virtual-joystick-android
+V2 uses 2 nodeMcu boards, one in the remote(which acts as the server), and one in the car(the client).
